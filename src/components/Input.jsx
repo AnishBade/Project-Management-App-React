@@ -1,4 +1,3 @@
-import React from "react";
 import { forwardRef } from "react";
 
 const Input = forwardRef(function Input({ label, textArea, ...props }, ref) {
